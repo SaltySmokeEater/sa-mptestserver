@@ -1,0 +1,3 @@
+-- Placeholder ngrp.sql
+-- Replace this file with the real ngrp.sql from the repository.
+-- The real file contains the full schema (tables, initial data) required by the gamemode.

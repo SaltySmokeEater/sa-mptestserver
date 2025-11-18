@@ -1,0 +1,54 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:24:09] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:25:04] filterscripts = ""  (string)
+[16:25:04] 
+[16:25:04] Server Plugins
+[16:25:04] --------------
+[16:25:04]  Loading plugin: streamer.dll
+[16:25:04] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:25:04]   Loaded.
+[16:25:04]  Loading plugin: sscanf.dll
+[16:25:04] 
+
+[16:25:04]  ===============================
+
+[16:25:04]       sscanf plugin loaded.     
+
+[16:25:04]          Version:  2.8.2        
+
+[16:25:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:25:04]  ===============================
+
+[16:25:04]   Loaded.
+[16:25:04]  Loading plugin: libmariadb.dll
+[16:25:10]   Failed.
+[16:25:10]  Loaded 2 plugins.
+
+[16:25:10] 
+[16:25:10] Filterscripts
+[16:25:10] ---------------
+[16:25:10]   Loaded 0 filterscripts.
+
+[16:25:10] Script[gamemodes/ngrp.amx]: Run time error 19: "File or function is not found"
+[16:25:10] Number of vehicle models: 0
